@@ -1,0 +1,41 @@
+﻿body {
+    background-image: linear-gradient(to bottom right, #FF9933, #F6E6D8, #DEDEDE);
+}
+
+.box {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.search-container {
+    display: none;
+}
+
+.cart-btn {
+    display: none;
+}
+
+.qr-code-img {
+    height: 400px;
+    width: 400px;
+}
+
+.myLink {
+    margin-top: 25px;
+    color: #648FD3;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    font-size: 23px;
+}
+
+.myLink:hover {
+    color: #FF9933;
+    text-decoration: underline;
+}

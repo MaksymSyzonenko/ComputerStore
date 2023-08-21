@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Transaction>
+<head>
+    <link rel="stylesheet" href="~/css/stylesTransactionsManagement.css">
+</head>
+<body>
+    @{
+        var groupedTransactions = Model.GroupBy(t => t.OrderID);
+    }
+    @if (Model.Count() < 1)
+    {
+        <div class="center-div">
+            <h6>Транзакцій не знайдено.</h6>
+            <form asp-controller="Admin" asp-action="AdminIndex" method="get">
+                <button type="submit" class="btn" style="margin-top: 40px;">Back</button>
+            </form>
+        </div>
+    }
+    else
+    {
+        <div class="container-local">
+            <form asp-controller="Admin" asp-action="TransactionsManagement" method="get">
+                <input type="text" name="searchQuery" placeholder="Пошук">
+            </form>
+            <div class="button-group">
+                <form asp-controller="Admin" asp-action="TransactionsManagement" method="get">
+                    <button type="submit" class="btn">Show All</button>
+                </form>
+                <form asp-controller="Admin" asp-action="AdminIndex" method="get">
+                    <button class="btn" style="margin-left: 30px;">Back</button>
+                </form>
+            </div>
+        </div>
+        @foreach (var group in groupedTransactions)
+        {
+            <div class="table-container">
+                <table class="table table-bordered table-striped">
+                    <tr class="table-header" style="text-align: center; vertical-align: middle;">
+                        <th>Transaction ID</th>
+                        <th>User ID</th>
+                        <th>User FirstName</th>
+                        <th>User LastName</th>
+                        <th>Product ID</th>
+                        <th>Product Name</th>
+                        <th>Product Price</th>
+                        <th>Transaction Date</th>
+                        <th>Shipping Address</th>
+                        <th>Shipping City</th>
+                        <th>Shipping Postal Code</th>
+                        <th>Order ID</th>
+                    </tr>
+                    @foreach (var transaction in group)
+                    {
+                        <tr style="text-align: center; vertical-align: middle;">
+                            <td>@transaction.TransactionID</td>
+                            <td>@transaction.UserID</td>
+                            <td>@transaction.User.FirstName</td>
+                            <td>@transaction.User.LastName</td>
+                            <td>@transaction.ProductID</td>
+                            <td>@transaction.Product.Name</td>
+                            <td>@transaction.Product.Price.ToString("N2").TrimEnd('0').TrimEnd(',') грн</td>
+                            <td>@transaction.TransactionDate</td>
+                            <td>@transaction.ShippingAddress</td>
+                            <td>@transaction.ShippingCity</td>
+                            <td>@transaction.ShippingPostalCode</td>
+                            <td>@transaction.OrderID</td>
+                        </tr>
+                    }
+                    <tr>
+                        <td><strong>Sum Product Price:</strong></td>
+                        <td colspan="11">@group.Sum(t => t.Product.Price).ToString("N2").TrimEnd('0').TrimEnd(',') грн</td>
+                    </tr>
+                </table>
+            </div>
+        }
+    }
+</body>

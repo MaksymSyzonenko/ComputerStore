@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Transaction>
+<head>
+    <link rel="stylesheet" href="~/css/stylesOrdersData.css">
+</head>
+<body>
+    @{
+        var groupedTransactions = Model.GroupBy(t => t.OrderID);
+        var sortedGroups = groupedTransactions.OrderByDescending(g => g.Max(t => t.TransactionDate));
+    }
+    @if(Model.Count() < 1)
+    {
+        <h6>Замовлень не знайдено.</h6>
+    }
+    else
+    {
+        @foreach (var group in sortedGroups)
+        {
+            <h4>Order ID: @group.Key</h4>
+            <table class="table table-bordered table-striped">
+                <tr class="table-header" style="text-align: center; vertical-align: middle;">
+                    <th>Transaction ID</th>
+                    <th>User FirstName</th>
+                    <th>Product Producer</th>
+                    <th>Product Name</th>
+                    <th>Product Price</th>
+                    <th>Transaction Date</th>
+                    <th>Shipping Address</th>
+                    <th>Shipping City</th>
+                    <th>Shipping Postal Code</th>
+                </tr>
+                @foreach (var transaction in group)
+                {
+                    <tr style="text-align: center; vertical-align: middle;">
+                        <td>@transaction.TransactionID</td>
+                        <td>@transaction.User.FirstName</td>
+                        <td>@transaction.Product.Producer</td>
+                        <td>@transaction.Product.Name</td>
+                        <td>@transaction.Product.Price.ToString("N2").TrimEnd('0').TrimEnd(',') грн</td>
+                        <td>@transaction.TransactionDate</td>
+                        <td>@transaction.ShippingAddress</td>
+                        <td>@transaction.ShippingCity</td>
+                        <td>@transaction.ShippingPostalCode</td>
+                    </tr>
+                }
+                <tr>
+                    <td><strong>Sum Product Price:</strong></td>
+                    <td colspan="8">@group.Sum(t => t.Product.Price).ToString("N2").TrimEnd('0').TrimEnd(',') грн</td>
+                </tr>
+            </table>
+        }
+    }
+</body>

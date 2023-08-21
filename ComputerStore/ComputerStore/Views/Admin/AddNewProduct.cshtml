@@ -1,0 +1,77 @@
+﻿@model Product
+<head>
+    <link rel="stylesheet" href="~/css/stylesAddNewProduct.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#imageUpload").change(function () {
+                var file = this.files[0];
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $("#imagePreview").attr("src", e.target.result);
+                }
+                reader.readAsDataURL(file);
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="box">
+        <h2>Add New Product</h2>
+        <form method="post" enctype="multipart/form-data" action="/Admin/AddProduct">
+            <div class="info-block">
+                <label for="name">Name:</label>
+                <br />
+                <input type="text" id="name" name="Name" required />
+            </div>
+            <div class="info-block">
+                <label for="producer">Producer:</label>
+                <br />
+                <input type="text" id="producer" name="Producer" required />
+            </div>
+            <div class ="info-block">
+                <label for="category">Category:</label>
+                <br />
+                <input type="text" id="category" name="Category" required />
+            </div>
+            <div class="info-block">
+                <label for="imageUpload">Image:</label>
+                <br />
+                <input style="margin-left: 55px;" type="file" id="imageUpload" name="ImageUpload" accept="image/*" required />
+            </div>
+            <div class="info-block">
+                <img id="imagePreview" src="#" alt="Preview" style="max-width: 200px; max-height: 200px;" />
+                <br />
+            </div>
+            <div class="info-block">
+                <label for="shortDescription">Short Description:</label>
+                <br />
+                <textarea id="shortDescription" name="ShortDescription" required></textarea>
+            </div>
+            <div class="info-block">
+                <label for="fullDescription">Full Description:</label>
+                <br />
+                <textarea id="fullDescription" name="FullDescription" required></textarea>
+            </div>
+            <div class="info-block">
+                <label for="specifications">Specifications:</label>
+                <br />
+                <textarea id="specifications" name="Specifications" required></textarea>
+            </div>
+            <div class="info-block">
+                <label for="inStock">In Stock:</label>
+                <input type="checkbox" id="inStock" name="InStock" checked />
+            </div>
+            <div class="info-block">
+                <label for="price">Price:</label>
+                <br />
+                <input type="number" id="price" name="Price" required />
+            </div>
+            <button class="btn" type="submit">Add Product</button>
+        </form>
+        <a class="myLink" asp-controller="Admin" asp-action="ProductsManagement">Повернутися до списку товарів</a>
+    </div>
+</body>
+
+
+

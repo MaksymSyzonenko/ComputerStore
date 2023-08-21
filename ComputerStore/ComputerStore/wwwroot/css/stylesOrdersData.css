@@ -1,0 +1,23 @@
+﻿body {
+    background-image: linear-gradient(to bottom right, #FF9933, #F6E6D8, #DEDEDE);
+}
+
+.search-container {
+    display: none;
+}
+
+table {
+    background-color: white;
+}
+
+.table-header {
+    background-color: #A1A1A1;
+    color: #fff;
+}
+
+h4 {
+    background-color: #A1A1A1;
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 5px;
+}

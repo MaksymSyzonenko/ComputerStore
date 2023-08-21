@@ -1,0 +1,29 @@
+﻿@using ComputerStore.ViewModels
+@model RegisterViewModel
+<form asp-action="Register" method="post">
+    <html>
+        <head>
+        <link rel="stylesheet" href="~/css/stylesInputForm.css">
+        </head>
+        <body>
+            <div class="box">
+                <h1>Register</h1>
+                <label style="color: red;">@TempData["ErrorRegisterMessage"]</label>
+                <label>Введіть логін: </label>
+                <input asp-for="UserName" type="text" required>
+                <label>Введіть пароль: </label>
+                <input asp-for="Password" type="password" required>
+                <label>Підтвердіть пароль: </label>
+                <input asp-for ="ConfirmPassword" type="password" required>
+                <label style="display: inline-block; width: 37%;">Ім'я:</label>
+                <label style="display: inline-block; width: 37%;">Прізвище:</label>
+                <input asp-for="FirstName" type="text" style="display: inline-block; width: 37%; margin-right: 2%;" required>
+                <input asp-for="LastName" type="text" style="display: inline-block; width: 37%; margin-left: 2%;" required>
+                <label>Введіть адресу електронної почти: </label>
+                <input asp-for="Email" type="email" required>
+                <button type="submit">Register</button>
+                <a class="myLink" asp-controller="SignUp" asp-action="Login">Вже маєте аккаунт?</a>
+            </div>
+        </body>
+    </html>
+</form>

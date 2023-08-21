@@ -1,0 +1,21 @@
+﻿@using ComputerStore.ViewModels;
+@model OrderViewModel
+<form asp-action="BuyProducts" method="post">
+    <html>
+    <head>
+        <link rel="stylesheet" href="~/css/stylesInputForm.css">
+    </head>
+    <body>
+        <div class="box">
+            <h1>Order</h1>
+            <label>Введіть місто доставки: </label>
+            <input asp-for="ShippingCity" type="text" required>
+            <label>Введіть адресу доставки: </label>
+            <input asp-for="ShippingAddress" type="text" required>
+            <label>Введіть поштовий індекс: </label>
+            <input asp-for="ShippingPostalCode" type="number" required>
+            <button type="submit">Order</button>
+        </div>
+    </body>
+</html>
+</form>

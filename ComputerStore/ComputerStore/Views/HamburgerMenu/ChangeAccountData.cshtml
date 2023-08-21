@@ -1,0 +1,24 @@
+﻿@using ComputerStore.ViewModels;
+@model ChangeAccountDataViewModel
+<form asp-action="ChangeAccountData" method="post">
+	<html>
+	<head>
+		<link rel="stylesheet" href="~/css/stylesInputForm.css">
+	</head>
+	<body>
+		<div class="box">
+			<h1>Change Data</h1>
+			<label style="color: red;">@TempData["ErrorChangeAccountDataMessage"]</label>
+			<label>Введіть нове ім'я: </label>
+			<input asp-for="FirstName" style="width: 70%" type="text">
+			<label>Введіть нове прізвище: </label>
+			<input asp-for="LastName" style="width: 70%" type="text">
+			<label>Ввеіть нову електронну адресу: </label>
+			<input asp-for="Email" style="width: 70%" type="email">
+			<label>Ввеіть пароль для підтвердження: </label>
+			<input asp-for="PasswordForConfirm" style="width: 70%" type="password">
+			<button type="submit">Change Data</button>
+		</div>
+	</body>
+</html>
+</form>

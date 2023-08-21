@@ -1,0 +1,80 @@
+﻿body {
+    background-image: linear-gradient(to bottom right, #FF9933, #F6E6D8, #DEDEDE);
+}
+
+.main-navigation {
+    display: none;
+}
+
+.admin-panel {
+    width: 565px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.admin-btn {
+    padding: 10px 10px;
+    background-color: #52504E;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #888888;
+    font-size: 16px;
+    cursor: pointer;
+    width: 250px;
+    margin-bottom: 15px;
+}
+
+.admin-btn:hover {
+    background-color: #FF9933;
+    transform: scale(1.1);
+    transform-origin: center bottom;
+}
+
+.admin-btn:active {
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    transform: translateY(1px);
+}
+
+.getout-btn {
+    padding: 10px 10px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #888888;
+    font-size: 16px;
+    cursor: pointer;
+    width: 250px;
+    margin-bottom: 15px;
+}
+
+.getout-btn:hover {
+    background-color: #FF9933;
+    transform: scale(1.1);
+    transform-origin: center bottom;
+}
+
+.getout-btn:active {
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    transform: translateY(1px);
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-group form {
+    margin: 0;
+}
+
+h3 {
+    margin-bottom: 35px;
+}

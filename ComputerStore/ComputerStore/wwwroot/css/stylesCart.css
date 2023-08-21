@@ -1,0 +1,127 @@
+﻿body {
+    background-image: linear-gradient(to bottom right, #FF9933, #F6E6D8, #DEDEDE);
+}
+
+.search-container {
+    display: none;
+}
+
+.main-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 600px;
+    border: 1px solid lightgray;
+    margin-bottom: 1px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    background-color: white;
+}
+
+.image-container {
+    margin-right: 10px;
+    width: 130px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: 100px;
+}
+
+.details-container {
+    margin-left: 10px;
+}
+
+.info-container h5 {
+    margin-bottom: 35px;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
+
+.inStockTrue {
+    color: #1db872;
+    font-size: 15px;
+}
+
+.inStockFalse {
+    color: orangered;
+    font-size: 15px;
+}
+
+.remove-icon-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.product-link {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+}
+
+a.product-link:hover,
+a.product-link:active,
+a.product-link {
+    text-decoration: none;
+    color: black;
+}
+
+.remove-icon {
+    cursor: pointer;
+    font-size: 20px;
+    color: gray;
+    background-color: white;
+    border: solid white;
+    border-radius: 15px;
+}
+
+.buy-btn {
+    margin-top: 15px;
+    display: block;
+    padding: 10px 10px;
+    background-color: #52504E;
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #888888;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100px;
+}
+
+.buy-btn:hover {
+    background-color: #FF9933;
+    transform: scale(1.1);
+    transform-origin: center bottom;
+}
+
+.buy-btn:active {
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    transform: translateY(1px);
+}
+
+.buy-container {
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 600px;
+}

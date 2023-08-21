@@ -1,0 +1,170 @@
+﻿@model Product
+<head>
+    <link rel="stylesheet" href="~/css/stylesShowProduct.css">
+    <script src="~/js/showProductScript.js"></script>
+</head>
+<body>
+    @{
+        if (Context.Request.Cookies.ContainsKey("ErrorShowProductMessage"))
+        {
+            <div id="notificationModal" class="modal">
+                <div class="modal-content-error">
+                    <span class="close"></span>
+                    <div class="alert-error">
+                        <strong style="color: red;">Попередження!</strong><br>
+                        @Context.Request.Cookies["ErrorShowProductMessage"]
+                    </div>
+                </div>
+            </div>
+            Context.Response.Cookies.Delete("ErrorShowProductMessage");
+        }
+    }
+    <div class="product-container">
+        <div class="tab-buttons">
+            <button class="tab-button active" onclick="openTab(event, 'home')">Головна</button>
+            <button class="tab-button" onclick="openTab(event, 'features')">Характеристики</button>
+            <button class="tab-button" onclick="openTab(event, 'reviews')">Відгуки</button>
+        </div>
+        <div id="home" class="tab active">
+            <div class="tab-content">
+                <div class="product">
+                    <div class="product-top-content">
+                        <div class="product-image">
+                            <img src="@Model.Image" alt="Product Image">
+                        </div>
+                        <div class="product-details">
+                            <h1 class="product-title">@Model.Name</h1>
+                            <div class="product-info">
+                                @if(Model.Reviews.Count > 0)
+                                {
+                                    double averageRating;
+                                    double sumRating = 0;
+                                    foreach(var review in Model.Reviews)
+                                    {
+                                        sumRating += review.Rating;
+                                    }
+                                    averageRating = sumRating / Model.Reviews.Count;
+                                    for (var i = 1; i <= 5; i++)
+                                    {
+                                        <span class="star @(averageRating >= i ? "filled" : "") @(averageRating > (i - 1) && averageRating < i ? "half-filled" : "")">✯</span>
+                                    }
+                                    <span style="font-weight: 100; color: gray; font-size: 14px;"> - відгуків (@Model.Reviews.Count)</span>
+                                }
+                            </div>
+                            <div class="product-info">
+                                <span>Наявність:</span> <p class="@((Model.InStock) ? "in-stock" : "out-of-stock")">@((Model.InStock) ? "В наявності" : "Немає в наявності")</p>
+                            </div>
+                            <div class="product-info">
+                                <span>Виробник:</span> @Model.Producer
+                            </div>
+                            <div class="product-info">
+                                <span>Категорія:</span> @Model.Category
+                            </div>
+                            <h5>@Model.Price.ToString("N2").TrimEnd('0').TrimEnd(',') грн</h5>
+                            <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                                <input type="hidden" name="productID" value="@Model.ProductID" />
+                                <input type="hidden" name="inStock" value="@Model.InStock.ToString().ToLower()" />
+                                <button class="add-btn" type="submit" data-authenticated="@Url.Action("IsUserLoggedIn", "SignUp")">Add to Cart</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="product-description">
+                        <p>
+                            @Html.Raw(Model.FullDescription)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="features" class="tab">
+            <div class="tab-content">
+                <div class="product">
+                    <div class="product-specifications">
+                        <p>
+                            @Html.Raw(Model.Specifications)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="reviews" class="tab">
+            <div class="tab-content">
+                <div class="product">
+                    @if(Model.Reviews.Count > 0)
+                    {
+                        @foreach (var review in Model.Reviews.OrderByDescending(r => r.ReviewDate))
+                        {
+                            <div class="review-box">
+                                <p>
+                                    <span style="font-weight: bold;">@review.User.FirstName @review.User.LastName</span>
+                                    <span style="color: lightgray;">залишив(-ла) відгук - @review.ReviewDate</span>
+                                </p>
+                                <p>
+                                    <span style="font-weight: bold;">Оцінка - </span>
+                                    <span class="rating">
+                                        @for (var i = 1; i <= 5; i++)
+                                        {
+                                            <span class="star @(review.Rating >= i ? "filled" : "") @(review.Rating > (i - 1) && review.Rating < i ? "half-filled" : "")">✯</span>
+                                        }
+                                    </span>
+                                </p>
+                                <p style="font-weight: bold;">Коментар: </p>
+                                <p>@review.Comment</p>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        <p>Відгуків про цей товар не знайдено.</p>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="type-review-container">
+            <form asp-action="AddReview" asp-controller="Home" method="post">
+                <textarea name="reviewComment" placeholder="Напишіть відгук про цей товар тут..."></textarea>
+                <div>
+                    <span>Вкажіть кількість зірок (рейтинг товару) від 1 до 5<br />(підтримується оцінка з половиною зірки):</span>
+                    <input class="review-rating" type="number" name="reviewRating" min="1" max="5" step="0.5" /><span style="color: #FF9933">✯</span>
+                </div>
+                <input type="hidden" name="productID" value="@Model.ProductID"/>
+                <button type="submit" class="add-review" style="width: 150px; margin: 10px;">Send</button>
+            </form>
+        </div>
+    </div>
+</body>
+<script>
+    var modal = document.getElementById("notificationModal");
+    var closeButton = document.getElementsByClassName("close")[0];
+
+    window.onload = function () {
+        modal.style.display = "block";
+    };
+
+    closeButton.onclick = function () {
+        modal.style.display = "none";
+    };
+
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    };
+
+    function openTab(evt, tabName) {
+        var i, tabcontent, tablinks;
+
+        tabcontent = document.getElementsByClassName("tab");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        tablinks = document.getElementsByClassName("tab-button");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+</script>

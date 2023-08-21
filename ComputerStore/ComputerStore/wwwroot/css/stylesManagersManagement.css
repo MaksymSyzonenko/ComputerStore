@@ -1,0 +1,95 @@
+﻿body {
+    background-image: linear-gradient(to bottom right, #FF9933, #F6E6D8, #DEDEDE);
+}
+
+.main-navigation {
+    display: none;
+}
+
+.table-container {
+    margin-top: 10px;
+}
+
+table {
+    background-color: white;
+}
+
+.table-header {
+    background-color: #A1A1A1;
+    color: #fff;
+}
+
+h4 {
+    background-color: #A1A1A1;
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn {
+    padding: 10px 10px;
+    background-color: #52504E;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #888888;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #FF9933;
+    transform: scale(1.1);
+    transform-origin: center bottom;
+}
+
+.btn:active {
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    transform: translateY(1px);
+}
+
+.center-div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-local {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.container-local form {
+    margin-right: 10px;
+}
+
+.container-local form button {
+    display: inline-block;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.button-group form {
+    margin: 0;
+}
+
+.container-local input {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    height: 40px;
+    padding: 5px;
+    width: 275px;
+}
+
+.container-local input:focus {
+    border: 2px solid gray;
+    border-radius: 10px;
+    outline: none;
+}

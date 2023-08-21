@@ -1,0 +1,35 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/stylesAdminIndex.css">
+</head>
+<body>
+    <div class="admin-panel">
+        <h3>Admin Panel</h3>
+        <div class="button-group">
+            <form asp-controller="Admin" asp-action="ProductsManagement" method="get">
+                <button class="admin-btn">Product Management</button>
+            </form>
+            <form asp-controller="Admin" asp-action="UsersManagement" method="get">
+                <button class="admin-btn">User Management</button>
+            </form>
+        </div>
+        <br />
+        <div class="button-group">
+            <form asp-controller="Admin" asp-action="ReviewsManagement" method="get">
+                <button class="admin-btn">Review Management</button>
+            </form>
+            <form asp-controller="Admin" asp-action="TransactionsManagement" method="get">
+                <button class="admin-btn">Transaction Management</button>
+            </form>
+        </div>
+        <br />
+        <div class="button-group">
+            <form asp-controller="Admin" asp-action="ManagersManagement" method="get">
+                <button class="admin-btn">Manager Management</button>
+            </form>
+            <form asp-controller="Admin" asp-action="GetOut" method="get">
+                <button class="getout-btn">Get Out</button>
+            </form>
+        </div>
+    </div>
+
+</body>

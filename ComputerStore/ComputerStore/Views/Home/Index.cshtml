@@ -1,0 +1,196 @@
+﻿@using ComputerStore.ViewModels;
+@using System.Globalization;
+@model IEnumerable<ProductViewModel>
+<head>
+    <link rel="stylesheet" href="~/css/stylesIndex.css">
+</head>
+<body>
+    @{
+        if (Context.Request.Cookies.ContainsKey("SuccessMessage"))
+        {
+            <div id="notificationModal" class="modal">
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <div class="alert-success">
+                        @Context.Request.Cookies["SuccessMessage"]
+                    </div>
+                </div>
+            </div>
+            Context.Response.Cookies.Delete("SuccessMessage");
+        }
+        if (Context.Request.Cookies.ContainsKey("ErrorIndexMessage"))
+        {
+            <div id="notificationModal" class="modal">
+                <div class="modal-content-error">
+                    <span class="close"></span>
+                    <div class="alert-error">
+                        <strong style="color: red;">Попередження!</strong><br>
+                        @Context.Request.Cookies["ErrorIndexMessage"]
+                    </div>
+                </div>
+            </div>
+            Context.Response.Cookies.Delete("ErrorIndexMessage");
+        }
+    }
+    @if (ViewBag.NoResults)
+    {
+        <h6>Товарів за таким запитом не знайдено.</h6>
+    }
+    <div class="parent-container">
+        <div class="filters-list">
+            <h5>Список фільтрів</h5>
+            <form method="get" action="@Url.Action("Index")">
+                <div>
+                    <label class="price-filter-label" for="minPrice">Min Price:</label>
+                    <input class="price-input" type="text" id="minPrice" name="minPrice" value="@ViewBag.MinPrice" />
+                </div>
+                <div>
+                    <label class="price-filter-label" for="maxPrice">Max Price:</label>
+                    <input class="price-input" type="text" id="maxPrice" name="maxPrice" value="@ViewBag.MaxPrice" />
+                </div>
+                <div class="categories-list">
+                    <select class="category-box" name="category" id="category">
+                        <option value="">All categories</option>
+                        @foreach (var category in ViewBag.Categories)
+                        {
+                            var option = new TagBuilder("option");
+                            option.Attributes.Add("value", category);
+                            option.InnerHtml.Append(category);
+                            if (ViewBag.Category == category)
+                            {
+                                option.Attributes.Add("selected", "selected");
+                            }
+                            <text>@option</text>
+                        }
+                    </select>
+                </div>
+                <div class="rating-list">
+                    <div>
+                        <label class="rating-filter-label" for="minRating">Min Rating:</label>
+                        <select class="rating-box" id="minRating" name="minRating">
+                            <option value="">Any Rating</option>
+                            @foreach (var rating in new List<double> { 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5 })
+                            {
+                                var option = new TagBuilder("option");
+                                option.Attributes.Add("value", rating.ToString("0.0", CultureInfo.InvariantCulture));
+                                option.InnerHtml.Append(rating.ToString() + " ✯");
+                                if (ViewBag.MinRating == rating)
+                                {
+                                    option.Attributes.Add("selected", "selected");
+                                }
+                                <text>@option</text>
+                            }
+                        </select>
+                    </div>
+                    <div>
+                        <label class="rating-filter-label" for="maxRating">Max Rating:</label>
+                        <select class="rating-box" id="maxRating" name="maxRating">
+                            <option value="">Any Rating</option>
+                            @foreach (var rating in new List<double> { 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5 })
+                            {
+                                var option = new TagBuilder("option");
+                                option.Attributes.Add("value", rating.ToString("0.0", CultureInfo.InvariantCulture));
+                                option.InnerHtml.Append(rating.ToString() + " ✯");
+                                if (ViewBag.MaxRating == rating)
+                                {
+                                    option.Attributes.Add("selected", "selected");
+                                }
+                                <text>@option</text>
+                            }
+                        </select>
+                    </div>
+                </div>
+                <br />
+                <div class="instock-checking">
+                    <label for="inStock">In Stock:</label>
+                    <input class="instock-checkbox" type="checkbox" id="inStock" name="inStock" value="true" @(ViewBag.InStock ? "checked" : "") />
+                </div>
+                <br />
+                <button class="apply-filters" type="submit">Apply Filters</button>
+            </form>
+        </div>
+        <div>
+            <div class="product-list">
+                @foreach (var product in Model)
+                {
+                    <div class="product-container">
+                        <a class="product-link" href="@Url.Action("ShowProduct", "Home", product)">
+                            <img src="@product.Image">
+                            <div class="tooltip">
+                                <img src="@product.Image">
+                                <br>
+                                <h6>@product.Name</h6>
+                                <h5>@product.Price.ToString("N2").TrimEnd('0').TrimEnd(',') грн</h5>
+                                <p class="category">Категорія: @product.Category</p>
+                                <p>@Html.Raw(product.ShortDescription)</p>
+                            </div>
+                            <h6>@product.Name</h6>
+                            <div class="rating">
+                                @if (product.AverageRating != 0)
+                                {
+                                    for (var i = 1; i <= 5; i++)
+                                    {
+                                        <span class="star @(product.AverageRating >= i ? "filled" : "") @(product.AverageRating > (i - 1) && product.AverageRating < i ? "half-filled" : "")">✯</span>
+                                    }
+                                }
+                            </div>
+                            @if (@product.InStock)
+                            {
+                                <p class="inStockTrue">В наявності</p>
+                            }
+                            else
+                            {
+                                <p class="inStockFalse">Немає в наявності</p>
+                            }
+                            <h5>@product.Price.ToString("N2").TrimEnd('0').TrimEnd(',') грн</h5>
+                        </a>
+                        <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                            <input type="hidden" name="productID" value="@product.ProductID" />
+                            <input type="hidden" name="inStock" value="@product.InStock.ToString().ToLower()" />
+                            <button class="add-btn" type="submit">Add to Cart</button>
+                        </form>
+                    </div>
+                }
+            </div>
+            <div class="pagination">
+                @if (ViewBag.currentPage > 1)
+                {
+                    <a href="@Url.Action("Index", new { page = ViewBag.currentPage - 1, pageSize = ViewBag.pageSize, searchQuery = ViewBag.SearchQuery, minPrice = ViewBag.MinPrice, maxPrice = ViewBag.MaxPrice, minRating = ViewBag.MinRating, maxRating = ViewBag.MaxRating, category = ViewBag.Category, inStock = ViewBag.InStock  })">&lt;</a>
+                }
+                @for (int i = 1; i <= ViewBag.pageCount; i++)
+                {
+                    if (i == ViewBag.currentPage)
+                    {
+                        <a href="@Url.Action("Index", new { page = i, pageSize = ViewBag.pageSize, searchQuery = ViewBag.SearchQuery, minPrice = ViewBag.MinPrice, maxPrice = ViewBag.MaxPrice, minRating = ViewBag.MinRating, maxRating = ViewBag.MaxRating, category = ViewBag.Category, inStock = ViewBag.InStock  })" class="active">@i</a>
+                    }
+                    else
+                    {
+                        <a href="@Url.Action("Index", new { page = i, pageSize = ViewBag.pageSize, searchQuery = ViewBag.SearchQuery, minPrice = ViewBag.MinPrice, maxPrice = ViewBag.MaxPrice, minRating = ViewBag.MinRating, maxRating = ViewBag.MaxRating, category = ViewBag.Category, inStock = ViewBag.InStock })">@i</a>
+                    }
+                }
+                @if (ViewBag.currentPage < ViewBag.pageCount)
+                {
+                    <a href="@Url.Action("Index", new { page = ViewBag.currentPage + 1, pageSize = ViewBag.pageSize, searchQuery = ViewBag.SearchQuery, minPrice = ViewBag.MinPrice, maxPrice = ViewBag.MaxPrice, minRating = ViewBag.MinRating, maxRating = ViewBag.MaxRating, category = ViewBag.Category, inStock = ViewBag.InStock })">&gt;</a>
+                }
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    var modal = document.getElementById("notificationModal");
+    var closeButton = document.getElementsByClassName("close")[0];
+
+    window.onload = function () {
+        modal.style.display = "block";
+    };
+
+    closeButton.onclick = function () {
+        modal.style.display = "none";
+    };
+
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    };
+</script>
