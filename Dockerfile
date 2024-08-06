@@ -1,24 +1,22 @@
-
+# Укажите базовый образ
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
 EXPOSE 80
-EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["ComputerStore.csproj", "."]
-RUN dotnet restore "./ComputerStore.csproj"
+COPY ["ComputerStore/ComputerStore.csproj", "ComputerStore/"]
+COPY ["ComputerStore_MSSQL/ComputerStore_MSSQL.csproj", "ComputerStore_MSSQL/"]
+RUN dotnet restore "ComputerStore/ComputerStore.csproj"
 COPY . .
-WORKDIR "/src/."
-RUN dotnet build "./ComputerStore.csproj" -c %BUILD_CONFIGURATION% -o /app/build
+WORKDIR "/src/ComputerStore"
+RUN dotnet build "ComputerStore.csproj" -c Release -o /app/build
 
 FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./ComputerStore.csproj" -c %BUILD_CONFIGURATION% -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "ComputerStore.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-COPY ComputerStore/appsettings.json ./appsettings.json
+COPY ComputerStore/appsettings.json ./appsettings.json  # добавляем источник и назначение для appsettings.json
 ENTRYPOINT ["dotnet", "ComputerStore.dll"]
