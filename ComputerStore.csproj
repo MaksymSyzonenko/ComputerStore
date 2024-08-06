@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="6.11.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.29" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\Asus ROG Strix G15 G513IM.jpg" />
+    <None Include="wwwroot\Images\HyperX Alloy Origins.jpg" />
+    <None Include="wwwroot\Images\Logitech G Pro Wireless.jpg" />
+    <None Include="wwwroot\Images\Player Three Prime.jpg" />
+    <None Include="wwwroot\Images\Samsung Odyssey G3.jpg" />
+    <None Include="wwwroot\Images\Sony WH-XB910N.jpg" />
+    <None Include="wwwroot\Images\Tungsten Pro Gaming.jpg" />
+  </ItemGroup>
+
+</Project>
