@@ -20,5 +20,5 @@ RUN dotnet publish "./ComputerStore.csproj" -c %BUILD_CONFIGURATION% -o /app/pub
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-COPY ComputerStore/appsettings.json
+COPY ComputerStore/appsettings.json ./appsettings.json
 ENTRYPOINT ["dotnet", "ComputerStore.dll"]
