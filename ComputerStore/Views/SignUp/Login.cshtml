@@ -1,0 +1,25 @@
+﻿@using ComputerStore.ViewModels;
+@model LoginViewModel
+<form asp-action="Login" method="post">
+	<html>
+		<head>
+		<link rel="stylesheet" href="~/css/stylesInputForm.css">
+		</head>
+		<body>
+			<div class="box" style="margin-top: 50px;">
+				<h1>Sign In</h1>
+				<label style="color: red;">@TempData["ErrorLoginMessage"]</label>
+				<label>Введіть логін (Demo - "AdminMaks"): </label>
+				<input asp-for="UserName" style="width: 70%" type="text">
+				<label>Введіть пароль (Demo - "Admin123123."): </label>
+				<input asp-for="Password" style="width: 70%" type="password">
+				<br/>
+				<input asp-for="RememberMe" type="checkbox" class="checkbox-input" />
+				<label asp-for="RememberMe" class="checkbox-label">Запам'ятати мене</label>
+				<br/>
+				<button type="submit">Sign In</button>
+				<a class="myLink" asp-controller="SignUp" asp-action="Register">Ще не зареєстровані?</a>
+			</div>
+		</body>
+	</html>
+</form>

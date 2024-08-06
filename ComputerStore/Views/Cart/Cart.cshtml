@@ -1,0 +1,53 @@
+﻿@using ComputerStore_MSSQL.Data.Entities;
+@using ComputerStore.ViewModels;
+@model IEnumerable<ProductEntity>
+<head>
+    <link rel="stylesheet" href="~/css/stylesCart.css">
+</head>
+<body>
+    <div class="main-container">
+        @if (Model.Count() < 1)
+        {
+            <h6>Кошик пустий.</h6>
+        }
+        else
+        {
+            @foreach (var product in Model)
+            {
+                <div class="product-container">
+                    <a class="product-link" href="@Url.Action("ShowProduct", "ProductClient", new ProductViewModel{ProductId = product.ProductId})">
+                        <div class="image-container">
+                            <img src="@product.Image" alt="Product Image" />
+                        </div>
+                        <div class="details-container">
+                            <div class="info-container">
+                                <h6>@product.Name</h6>
+                                @if (product.InStock)
+                                {
+                                    <p class="inStockTrue">В наявності</p>
+                                }
+                                else
+                                {
+                                    <p class="inStockFalse">Немає в наявності</p>
+                                }
+                                <h5>@product.Price.ToString("N2").TrimEnd('0').TrimEnd(',') грн</h5>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="remove-icon-container">
+                        <form asp-controller="Cart" asp-action="RemoveFromCart" method="post">
+                            <input type="hidden" name="productId" value="@product.ProductId" />
+                            <button class="remove-icon" type="submit">&#10006;</button>
+                        </form>
+                    </div>
+                </div>
+            }
+            <div class="buy-container">
+                <h7>Загальна сума товарів: @Model.Sum(p => p.Price)</h7>
+                <form asp-controller="Cart" asp-action="BuyProducts" method="get">
+                    <button class="buy-btn">Buy</button>
+                </form>
+            </div>
+        }
+    </div>
+</body>

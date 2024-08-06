@@ -1,0 +1,310 @@
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\appsettings.Development.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\appsettings.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.staticwebassets.runtime.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.exe
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.deps.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.runtimeconfig.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.pdb
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.AssemblyReference.cache
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.AssemblyInfoInputs.cache
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.AssemblyInfo.cs
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.CoreCompileInputs.cache
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.MvcApplicationPartsAssemblyInfo.cache
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.RazorAssemblyInfo.cache
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.RazorAssemblyInfo.cs
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.ComputerStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.build.ComputerStore.props
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ComputerStore.props
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ComputerStore.props
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.build.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.development.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\bundle\ComputerStore.styles.css
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\projectbundle\ComputerStore.bundle.scp.css
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\refint\ComputerStore.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.pdb
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.genruntimeconfig.cache
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ref\ComputerStore.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Azure.Core.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Azure.Identity.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Memory.Data.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.CopyComplete
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\FluentAssertions.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\logs.json
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\На новый пк\Проэкты\Универ\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\refint\ComputerStore.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.pdb
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.AssemblyInfo.cs
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\logs.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.staticwebassets.runtime.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.exe
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.deps.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.runtimeconfig.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.pdb
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore_MSSQL.dll
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore_MSSQL.pdb
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.ComputerStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.build.ComputerStore.props
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ComputerStore.props
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ComputerStore.props
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\bundle\ComputerStore.styles.css
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\projectbundle\ComputerStore.bundle.scp.css
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.CopyComplete
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.genruntimeconfig.cache
+C:\Users\user\Desktop\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ref\ComputerStore.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\logs.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.staticwebassets.runtime.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.exe
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.deps.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.runtimeconfig.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.pdb
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore_MSSQL.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore_MSSQL.pdb
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.AssemblyInfo.cs
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.ComputerStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.build.ComputerStore.props
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ComputerStore.props
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ComputerStore.props
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\bundle\ComputerStore.styles.css
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\projectbundle\ComputerStore.bundle.scp.css
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.CopyComplete
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\refint\ComputerStore.dll
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.pdb
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.genruntimeconfig.cache
+C:\Users\user\Desktop\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ref\ComputerStore.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\appsettings.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\logs.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.staticwebassets.runtime.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.exe
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.deps.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.runtimeconfig.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore.pdb
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\FluentAssertions.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore_MSSQL.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\ComputerStore_MSSQL.pdb
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.AssemblyReference.cache
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.AssemblyInfoInputs.cache
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.AssemblyInfo.cs
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.csproj.CoreCompileInputs.cache
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.RazorAssemblyInfo.cache
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.RazorAssemblyInfo.cs
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.ComputerStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.build.ComputerStore.props
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ComputerStore.props
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ComputerStore.props
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\bundle\ComputerStore.styles.css
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\scopedcss\projectbundle\ComputerStore.bundle.scp.css
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\Computer.2C944D8C.Up2Date
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\refint\ComputerStore.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.pdb
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ComputerStore.genruntimeconfig.cache
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\obj\Debug\net7.0\ref\ComputerStore.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop Folder\ComputerStore-main\ComputerStore\ComputerStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
