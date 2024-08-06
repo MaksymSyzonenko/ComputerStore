@@ -29,3 +29,7 @@ COPY ComputerStore/appsettings.json ./appsettings.json  # добавляем и�
 
 # Run the application
 ENTRYPOINT ["dotnet", "ComputerStore.dll"]
+
+
+# Run the application
+ENTRYPOINT ["dotnet", "ComputerStore.dll"]
