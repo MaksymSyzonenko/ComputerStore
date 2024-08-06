@@ -28,7 +28,3 @@ README.md
 !.git/config
 !.git/packed-refs
 !.git/refs/heads/**
-obj/
-bin/
-**/obj/**/Microsoft.EntityFrameworkCore.Analyzers/
-**/bin/**/Microsoft.EntityFrameworkCore.Analyzers/

@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Computer_Store
+build_property.RootNamespace = Computer_Store
+build_property.ProjectDir = C:\Users\user\Desktop\Computer-Store\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Computer-Store
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Admin/AddNewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTmV3UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Admin/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Admin/ManagersManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlcnNNYW5hZ2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Admin/ProductsManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHNNYW5hZ2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Admin/ReviewsManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmV2aWV3c01hbmFnZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Admin/TransactionsManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVHJhbnNhY3Rpb25zTWFuYWdlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Admin/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Admin/UsersManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnNNYW5hZ2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Cart/BuyProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxCdXlQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Cart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/GetAccountData/OrdersData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2V0QWNjb3VudERhdGFcT3JkZXJzRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/GetAccountData/ReviewsData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2V0QWNjb3VudERhdGFcUmV2aWV3c0RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/ProductClient/ShowProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENsaWVudFxTaG93UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/SignUp/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/SignUp/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Support/Support.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcG9ydFxTdXBwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/UpdateAccountData/ChangeAccountData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlQWNjb3VudERhdGFcQ2hhbmdlQWNjb3VudERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/UpdateAccountData/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlQWNjb3VudERhdGFcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/Computer-Store/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w6ziunrjvo
