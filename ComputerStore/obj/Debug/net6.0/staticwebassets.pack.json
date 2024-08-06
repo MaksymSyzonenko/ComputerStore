@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ComputerStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ComputerStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Asus ROG Strix G15 G513IM.jpg",
+      "PackagePath": "staticwebassets\\Images\\Asus ROG Strix G15 G513IM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\HyperX Alloy Origins.jpg",
+      "PackagePath": "staticwebassets\\Images\\HyperX Alloy Origins.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Logitech G Pro Wireless.jpg",
+      "PackagePath": "staticwebassets\\Images\\Logitech G Pro Wireless.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Player Three Prime.jpg",
+      "PackagePath": "staticwebassets\\Images\\Player Three Prime.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Razer Mamba Elite.jpg",
+      "PackagePath": "staticwebassets\\Images\\Razer Mamba Elite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Samsung Odyssey G3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Samsung Odyssey G3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Sony WH-XB910N.jpg",
+      "PackagePath": "staticwebassets\\Images\\Sony WH-XB910N.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Telegram_Image.png",
+      "PackagePath": "staticwebassets\\Images\\Telegram_Image.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Telegram_QR_Code.png",
+      "PackagePath": "staticwebassets\\Images\\Telegram_QR_Code.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\Images\\Tungsten Pro Gaming.jpg",
+      "PackagePath": "staticwebassets\\Images\\Tungsten Pro Gaming.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesAddNewProduct.css",
+      "PackagePath": "staticwebassets\\css\\stylesAddNewProduct.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesAdminIndex.css",
+      "PackagePath": "staticwebassets\\css\\stylesAdminIndex.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesCart.css",
+      "PackagePath": "staticwebassets\\css\\stylesCart.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesIndex.css",
+      "PackagePath": "staticwebassets\\css\\stylesIndex.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesInputForm.css",
+      "PackagePath": "staticwebassets\\css\\stylesInputForm.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesLayout.css",
+      "PackagePath": "staticwebassets\\css\\stylesLayout.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesManagersManagement.css",
+      "PackagePath": "staticwebassets\\css\\stylesManagersManagement.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesOrdersData.css",
+      "PackagePath": "staticwebassets\\css\\stylesOrdersData.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesProductsManagement.css",
+      "PackagePath": "staticwebassets\\css\\stylesProductsManagement.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesReviewsData.css",
+      "PackagePath": "staticwebassets\\css\\stylesReviewsData.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesReviewsManagement.css",
+      "PackagePath": "staticwebassets\\css\\stylesReviewsManagement.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesShowProduct.css",
+      "PackagePath": "staticwebassets\\css\\stylesShowProduct.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesSupport.css",
+      "PackagePath": "staticwebassets\\css\\stylesSupport.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesTransactionsManagement.css",
+      "PackagePath": "staticwebassets\\css\\stylesTransactionsManagement.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesUpdateProduct.css",
+      "PackagePath": "staticwebassets\\css\\stylesUpdateProduct.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\css\\stylesUsersManagement.css",
+      "PackagePath": "staticwebassets\\css\\stylesUsersManagement.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ComputerStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ComputerStore.props",
+      "PackagePath": "build\\ComputerStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ComputerStore.props",
+      "PackagePath": "buildMultiTargeting\\ComputerStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ComputerStore.props",
+      "PackagePath": "buildTransitive\\ComputerStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

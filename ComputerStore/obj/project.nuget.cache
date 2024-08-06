@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FBZ8GQeEWFA=",
+  "dgSpecHash": "8Bc1yA3Op+M=",
   "success": true,
-  "projectFilePath": "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore\\ComputerStore.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\ComputerStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

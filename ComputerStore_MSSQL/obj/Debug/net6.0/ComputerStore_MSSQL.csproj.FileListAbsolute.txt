@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\bin\Debug\net6.0\ComputerStore_MSSQL.deps.json
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\bin\Debug\net6.0\ComputerStore_MSSQL.dll
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\bin\Debug\net6.0\ComputerStore_MSSQL.pdb
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\ComputerStore_MSSQL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\ComputerStore_MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\ComputerStore_MSSQL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\ComputerStore_MSSQL.AssemblyInfo.cs
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\ComputerStore_MSSQL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\ComputerStore_MSSQL.dll
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\refint\ComputerStore_MSSQL.dll
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\ComputerStore_MSSQL.pdb
+C:\Users\user\Desktop\ComputerStore\ComputerStore_MSSQL\obj\Debug\net6.0\ref\ComputerStore_MSSQL.dll

@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net6.0": {
       "FluentAssertions/6.11.0": {
         "type": "package",
         "dependencies": {
@@ -1226,7 +1226,7 @@
       },
       "ComputerStore_MSSQL/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Cookies": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.29",
@@ -2898,7 +2898,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net6.0": [
       "ComputerStore_MSSQL >= 1.0.0",
       "FluentAssertions >= 6.11.0",
       "Microsoft.AspNetCore.Authentication.Cookies >= 2.2.0",
@@ -2913,18 +2913,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore\\ComputerStore.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\ComputerStore.csproj",
       "projectName": "ComputerStore",
-      "projectPath": "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore\\ComputerStore.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\ComputerStore.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -2932,11 +2932,11 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj": {
-              "projectPath": "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj"
+            "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj"
             }
           }
         }
@@ -2953,8 +2953,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "FluentAssertions": {
             "target": "Package",

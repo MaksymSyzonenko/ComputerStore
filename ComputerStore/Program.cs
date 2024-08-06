@@ -18,8 +18,8 @@ namespace ComputerStore
         public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            //var port = Environment.GetEnvironmentVariable("PORT") ?? "8081";
-            //builder.WebHost.UseUrls($"http://*:{port}");
+            var port = Environment.GetEnvironmentVariable("PORT") ?? "8081";
+            builder.WebHost.UseUrls($"http://*:{port}");
             var configurationBuilder = new ConfigurationBuilder()
                 .SetBasePath(Environment.CurrentDirectory)
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);

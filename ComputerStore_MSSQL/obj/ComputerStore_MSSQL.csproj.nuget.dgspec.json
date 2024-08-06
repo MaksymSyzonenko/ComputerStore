@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj": {}
+    "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj": {}
   },
   "projects": {
-    "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj": {
+    "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj",
         "projectName": "ComputerStore_MSSQL",
-        "projectPath": "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore_MSSQL\\ComputerStore_MSSQL.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop Folder\\ComputerStore-main\\ComputerStore\\ComputerStore_MSSQL\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ComputerStore\\ComputerStore_MSSQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +43,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Cookies": {
               "target": "Package",
